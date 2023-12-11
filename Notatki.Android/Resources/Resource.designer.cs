@@ -22794,7 +22794,7 @@ namespace Notatki.Droid
 			public const int CardView_contentPaddingBottom = 12;
 			
 			// aapt resource value: 9
-			public const int CardView_contentPaddingBottom = 9;
+			//public const int CardView_contentPaddingBottom = 9;
 			
 			// aapt resource value: 10
 			public const int CardView_contentPaddingLeft = 10;
@@ -26441,7 +26441,7 @@ namespace Notatki.Droid
 			public const int LinearLayoutCompat_dividerPadding = 8;
 			
 			// aapt resource value: 6
-			public const int LinearLayoutCompat_dividerPadding = 6;
+			//public const int LinearLayoutCompat_dividerPadding = 6;
 			
 			// aapt resource value: { 0x10100B3,0x10100F4,0x10100F5,0x1010181 }
 			public static int[] LinearLayoutCompat_Layout = new int[] {
