@@ -4,7 +4,16 @@
              x:Class="Notatki.MainPage">
 
     <StackLayout>
-        <Label Text="Jakis syf"/>
+        <ListView x:Name="Lista">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Text="{Binding Title}"/>
+                        <Label Text="{Binding Description}"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 
 </ContentPage>
