@@ -15554,7 +15554,7 @@ namespace Notatki.Droid
 			
 			// aapt resource value: 0x7F0600CA
 			public const int mtrl_badge_radius = 2131099850;
-			
+		
 			// aapt resource value: 0x7F0600CB
 			public const int mtrl_badge_text_horizontal_edge_offset = 2131099851;
 			
@@ -16245,7 +16245,7 @@ namespace Notatki.Droid
 			{
 			}
 		}
-		
+			
 		public partial class Drawable
 		{
 			
@@ -22227,6 +22227,9 @@ namespace Notatki.Droid
 			// aapt resource value: 34
 			public const int AppCompatTheme_activityChooserViewStyle = 34;
 			
+			// aapt resource value: 39
+			public const int AppCompatTheme_actionModePopupWindowStyle = 39;
+			
 			// aapt resource value: 35
 			public const int AppCompatTheme_alertDialogButtonGroupStyle = 35;
 			
@@ -22235,6 +22238,9 @@ namespace Notatki.Droid
 			
 			// aapt resource value: 37
 			public const int AppCompatTheme_alertDialogStyle = 37;
+			
+			// aapt resource value: 27
+			public const int AppCompatTheme_actionModeStyle = 27;
 			
 			// aapt resource value: 38
 			public const int AppCompatTheme_alertDialogTheme = 38;
@@ -22463,6 +22469,9 @@ namespace Notatki.Droid
 			
 			// aapt resource value: 111
 			public const int AppCompatTheme_textColorSearchUrl = 111;
+			
+			// aapt resource value: 69
+			public const int AppCompatTheme_searchViewStyle = 69;
 			
 			// aapt resource value: 112
 			public const int AppCompatTheme_toolbarNavigationButtonStyle = 112;
@@ -28067,6 +28076,9 @@ namespace Notatki.Droid
 			
 			// aapt resource value: 4
 			public const int RecyclerView_fastScrollHorizontalThumbDrawable = 4;
+			
+			// aapt resource value: 3
+			public const int RecyclerView_spanCount = 3;
 			
 			// aapt resource value: 5
 			public const int RecyclerView_fastScrollHorizontalTrackDrawable = 5;
