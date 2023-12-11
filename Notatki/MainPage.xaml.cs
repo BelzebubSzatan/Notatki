@@ -39,5 +39,12 @@ namespace Notatki {
             };
             list.Add(noteModel);
         }
+
+        private void Delete_Clicked(object sender, EventArgs e) {
+            NoteModel model=Lista.SelectedItem as NoteModel;
+            if (model != null) {
+                list.Remove(model);
+            }
+        }
     }
 }

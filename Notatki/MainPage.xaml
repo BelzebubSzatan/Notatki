@@ -4,6 +4,7 @@
              x:Class="Notatki.MainPage">
 
     <StackLayout>
+        <Button x:Name="Delete" Text="delete" Clicked="Delete_Clicked"/>
         <ListView x:Name="Lista">
             <ListView.ItemTemplate>
                 <DataTemplate>
