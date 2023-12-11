@@ -4,7 +4,7 @@
              x:Class="Notatki.MainPage">
 
     <StackLayout>
-        <Label Text="Jakis text"/>
+        <Label Text="Jakis syf"/>
     </StackLayout>
 
 </ContentPage>
